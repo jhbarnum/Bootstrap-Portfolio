@@ -1,0 +1,45 @@
+body {
+	background-image:url("./images/bootstrapbacking.jpg");
+}
+.navbar {
+	width:100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+.container {
+	/*background-image:url("bootstrapbacking.jpg");*/
+	padding:60px 0px 0px ;
+	margin:0px;
+
+}
+img {
+	margin:0px 15px 15px 0px;
+	float:left;
+	width:25%;
+}
+footer {
+	line-height: 20px;
+	background-color: #666666;
+	clear:both;
+	height:20px;
+	width:110%;
+	margin:0px 0px 0px -10px;
+	border-top: 4px solid #4aaaa5;
+}
+.copyright {
+	vertical-align: middle;
+	text-align: center;
+	font-size:10px;
+	color:#ffffff;
+}
+.navbar-brand {
+	background-color: #4aaaa5;
+	float:left;
+}
+.header_underline {
+	border-bottom: 2px solid grey;
+	margin:15px;
+}
+
+
